@@ -1,0 +1,1 @@
+web: gunicorn --pythonpath examination examination.wsgi --log-file -
